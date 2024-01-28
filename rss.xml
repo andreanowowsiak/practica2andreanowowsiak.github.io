@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Canal rss</title>
+    <link>https://andreanowowsiak.github.io/</link>
+    <description>Noticias</description>
+    <item>
+      <title>Noticias La Voz de Galicia</title>
+      <link>https://www.lavozdegalicia.es/</link>
+      <description>Noticias</description>
+    </item>
+  </channel>
+</rss>
